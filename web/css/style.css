@@ -1,0 +1,220 @@
+body{
+    overflow-x: hidden;
+}
+.section-inicio{
+    background: white;
+}
+.margin-bottom{
+    margin-bottom: 46px;
+}
+h2{
+    margin-bottom: 20px;
+}
+
+.margin-top-carrousel{
+    margin-top: 61px;
+}
+
+.footer-style{
+    background: #333;
+    color: white;
+    margin: auto;
+    bottom: 0;
+}
+
+.border-img{
+    height: 56px;
+    width: 146px;
+    border: #2aabd2 solid 3px;
+}
+
+.right-button{
+    float: right;
+}
+
+.text-pesq{
+    width: 490px;
+    margin-left: 40px;
+    margin-top: 10px;
+
+}
+
+
+.left-object{
+    float: left;
+}
+
+.border{
+
+    border: grey solid 4px;
+}
+
+.aumentar{
+    width: 400px;
+}
+
+.btn-size{
+    margin-top: -2px;
+    height: 26px;
+
+}
+
+.float-left{
+    float: left;
+}
+
+.backgroud-mudar{
+    background: #262526 !important;
+}
+
+.style-div-desktop{
+    margin-top: 110px;
+}
+.style-produto-desktop{
+    height: 250px;
+}
+
+.margin-top{
+    margin-top: 70px;
+}
+
+.float-right{
+    float: right;
+    margin-top: 30px;
+}
+
+.down{
+    margin-top: 30px;
+}
+
+.imgs{
+    height: 220px;
+    width: 200px;
+}
+
+.link-produtos{
+    color: black;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #0088cc;
+}
+
+a{
+    color: black;
+}
+
+.div-produtos{
+    height: 320px;
+}
+
+.product{
+    margin-left: 20px;
+}
+
+.product-margin-top{
+    margin-top: 90px;
+    margin-left: 20px;
+}
+
+.altura{
+    height: 560px;
+}
+
+.altura-div{
+    height: 700px;
+}
+
+.altura-div-desc{
+    height: 830px;
+}
+
+.margin-top-erro{
+    margin-top: 170px;
+    margin-bottom: -50px;
+}
+
+.hover-blue:hover{
+    color: #46b8da !important;
+    font-size: 16px;
+}
+
+.tiririca{
+    height: 100%;
+    width: 100%;
+}
+
+.margin-bottom-login{
+    margin-bottom: 540px;
+}
+
+.margin-bottom-cliente{
+    margin-bottom: 245px;
+}
+
+.mais-margin-top{
+    margin-top: 150px;
+}
+
+.login-div{
+    width: 230px;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+
+.botao-center{
+    width: 110px;
+    margin-left: 70px;
+    margin-bottom: 15px;
+}
+
+.border-radius{
+    border-radius: 20px;
+}
+
+.fixed{
+    position: fixed;
+    bottom: 0;
+    width: 105%;
+    text-align: center;
+    padding-right: 90px;
+
+
+}
+
+.espaco-abaixo{
+    margin-bottom: 150px;
+}
+
+.espaco-abaixo-2{
+    margin-bottom: 200px;
+}
+
+.espaco-abaixo-0{
+    margin-bottom: 100px;
+}
+
+img.jequiti {
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 100%;
+    height: 100%;
+    display: none;
+
+}
+
+.aqui{
+    margin: 0%;
+    border: 3px solid black;
+    width: 100%;
+    height: 100%;
+    position:relative;
+    z-index: 99999999;
+}
+
+.teste{
+    bottom: 0px;
+
+    width: 100%;
+}
